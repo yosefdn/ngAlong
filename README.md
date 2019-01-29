@@ -1,2 +1,2 @@
 # ngAlong
-(ngAlong) Belajar Angular begadang
+(ngAlong) Stay up late Angular learn & testing
